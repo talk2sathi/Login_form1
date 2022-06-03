@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+    background-color: blueviolet;
+    text-emphasis-color: white;
+
+}
+h1{
+    color: rgb(27, 32, 11);
+    background-color: rgb(154, 199, 112);
+}
+form{
+    color: bisque;
+    color-scheme: black;
+}
+#submit-btn {
+    color:aqua ;
+    background-color:blue;
+    flood-color: rgb(156, 19, 19);
+}
+.reg{
+    background-color: blue;
+    color: aqua;
+}
+#st{
+    background-color: blue;
+    color: aqua;
+}
+#ph{
+    background-color: rgb(217, 255, 0);
+    color: red;
+}
+h2{
+    background-color: black;
+    color: red;
+    color-scheme: black;
+}
